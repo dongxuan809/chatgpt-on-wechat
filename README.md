@@ -727,3 +727,4 @@ FAQs： <https://github.com/zhayujie/chatgpt-on-wechat/wiki/FAQs>
 
 # 🛠️ 开发
 Peter 2025-9-6 fork了这个项目
+Peter 修改readme文件，做项目fetch和push的验证
